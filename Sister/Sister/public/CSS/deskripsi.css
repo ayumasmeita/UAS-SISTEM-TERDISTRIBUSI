@@ -1,0 +1,55 @@
+*{
+    margin: 1px;
+    padding: 0;
+    box-sizing: border-box;
+    float: left;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    font-size: xx-large;
+    float: left;
+    margin:0 9px 3px 0;
+}
+
+.navbar a{
+    margin: 16px;
+    font-size: 20px;
+    color:rgb(5, 5, 5);
+}
+
+.blog {
+    float: middle;
+   }
+   .conteudo {
+    width: 600px;
+    padding: 10px;
+    margin: 10px auto;
+    
+   }
+   .conteudo img {
+    width: 559px;
+   }
+   
+
+
+   .sidebar {
+    margin-top: 70px;
+    float: right;
+    width: 700px;
+   }
+
+   .sidebar .widget {
+   
+    margin: 0 0 25px;
+    margin-left: 4px;
+    
+    
+   }
+ 
+   .menusidebar li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+   }
